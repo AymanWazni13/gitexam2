@@ -1,10 +1,10 @@
 # Mon Projet
 
-## Introduction
+## Aman Wazni
 
 Ceci est un projet d'exemple pour démontrer les compétences en Git et GitHub.
 
-**Texte en gras** et *texte en italique*.
+**Test1** et *test2*.
 
 ## Code Sample
 
