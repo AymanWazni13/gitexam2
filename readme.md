@@ -1,6 +1,7 @@
 # Mon Projet
 
-## Aman Wazni
+## Ayman Wazni
+## Webtech Institute 
 
 Ceci est un projet d'exemple pour démontrer les compétences en Git et GitHub.
 
